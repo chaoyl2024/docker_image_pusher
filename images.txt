@@ -1,3 +1,1 @@
-alpine
-ngix
 xiaoyaliu/alist
